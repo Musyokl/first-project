@@ -1,5 +1,7 @@
 .section-title_theme_dark{
     width: 60%;
+    margin: 0 auto;
+    padding-top: 100px;
     text-align: center;
-    color: grey;
+    color: white;
 }

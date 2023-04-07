@@ -23,6 +23,7 @@
 @import url(../blocks/content/section/section-title/_theme/section-title_theme_dark.css);
 @import url(../blocks/content/section/section-subtitle/section-subtitle.css);
 @import url(../blocks/content/section/section-subtitle/_theme/section-subtitle_theme_dark.css);
+@import url(../blocks/content/section/_theme/section_theme_dark.css);
 @import url(../blocks/content/table/table.css);
 @import url(../blocks/content/table/_theme/table_theme_dark.css);
 @import url(../blocks/content/table/__cell/table__cell.css);
@@ -33,6 +34,17 @@
 @import url(../blocks/content/table/__text/_theme/__text_theme_dark/table__text_theme_dark.css);
 @import url(../blocks/content/logo-zone/logo-zone.css);
 @import url(../blocks/content/logo-zone/__logo/logo-zone__logo.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__columns/footer__columns.css);
+@import url(../blocks/footer/column/_content/column_content_copyright.css);
+@import url(../blocks/footer/logo_place_footer/logo_place_footer.css);
+@import url(../blocks/footer/author/author.css);
+@import url(../blocks/footer/column/column-heading.css);
+@import url(../blocks/footer/column/column-links.css);
+@import url(../blocks/footer/column/column-link.css);
+@import url(../blocks/footer/column/column-social.css);
+@import url(../blocks/footer/social-icon/social-icon.css);
 
 @import url(../fonts/header/header__title.css);
 @import url(../fonts/header/header__subtitle.css);
@@ -47,5 +59,8 @@
 @import url(../fonts/section/_theme/section-subtitle_theme_dark.css);
 @import url(../fonts/table/table__heading.css);
 @import url(../fonts/table/table__text.css);
+@import url(../fonts/footer/author.css);
+@import url(../fonts/footer/column-heading.css);
+@import url(../fonts/footer/column-link.css);
 
 @import url(../blocks/content/section/section-description/section-description.css);

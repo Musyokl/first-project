@@ -1,3 +1,8 @@
 .main-text__paragraph{
     margin: 0;
+    padding-bottom: 30px;
+}
+
+.main-text__paragraph:nth-last-of-type(1) {
+    padding-bottom: 0;
 }

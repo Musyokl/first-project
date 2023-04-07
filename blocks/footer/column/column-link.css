@@ -1,0 +1,9 @@
+.column-link {
+    color: white;
+    text-decoration: none;
+    padding-bottom: 10px;
+}
+
+.column-link:nth-last-of-type(1) {
+    padding-bottom: 0;
+}
