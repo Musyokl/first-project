@@ -3,4 +3,9 @@
     width: 730px;
     align-self: center;
     padding-left: 64px;
+    line-height: 96px;
+    font-size: 102px;
+    font-weight: 600;
+    position: relative;
+    z-index: 2;
 }
