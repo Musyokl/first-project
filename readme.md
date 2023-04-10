@@ -5,4 +5,4 @@
 
 2. CSS.
 ## Ссылки
-()
+(https://github.com/Musyokl/first-project/blob/main/pages/index.css)
