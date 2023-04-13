@@ -10,8 +10,3 @@
 .footer__column-link:nth-last-of-type(1) {
     padding-bottom: 0;
 }
-
-.footer__column-link:hover {
-    opacity: 0.5;
-    transition: opacity 1s ease-in;
-}
