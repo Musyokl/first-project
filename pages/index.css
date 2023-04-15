@@ -3,8 +3,6 @@
 @import url(../blocks/page/page.css);
 
 @import url(../blocks/rotation/rotation.css);
-@import url(../blocks/li/li.css);
-@import url(../blocks/ul/ul.css);
 @import url(../blocks/link/link.css);
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-title/_theme/section-title_theme_dark.css);
@@ -43,7 +41,6 @@
 @import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 @import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/table/__text/table__text.css);
-@import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
 @import url(../blocks/khan/khan.css);
 @import url(../blocks/khan/__container/khan__container.css);
 @import url(../blocks/khan/__author/khan__author.css);
@@ -64,6 +61,6 @@
 @import url(../blocks/footer/__column/footer__column.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
-@import url(../blocks/footer/__links/footer__column-links.css);
-@import url(../blocks/footer/__link/footer__column-link.css);
+@import url(../blocks/footer/__column-links/footer__column-links.css);
+@import url(../blocks/footer/__column-link/footer__column-link.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
